@@ -67,4 +67,4 @@ This project uses Gson for JSON parsing. If using Maven, add this to `pom.xml`:
 4. Push to your branch (`git push origin feature-name`)
 5. Open a pull request
 
-[Roadmap.sh]\([https://roadmap.sh/projects/github-user-activity](https://roadmap.sh/projects/github-user-activity))
+[Roadmap.sh]([https://roadmap.sh/projects/github-user-activity](https://roadmap.sh/projects/github-user-activity))
